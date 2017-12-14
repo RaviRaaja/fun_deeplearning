@@ -24,7 +24,7 @@ def optimize(W,b,X,Y,num_iterations, learning_rate):
 		Error = propagate(W,b,X,Y)
 		#print ("Error is {} for iteration {}".format(Error, i+1))
 		W = W + np.multiply(learning_rate , (np.dot(Error.T,X))) 
-		b = b + np.multiply(learning_rate , Error)
+		b = b + np.multiply(learning_rate , np.mean(Error))
 	params = {"W" : W, "b" : b}
 	return params
 
