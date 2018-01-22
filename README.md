@@ -13,8 +13,8 @@ This repo contains fun and basic projects to play with deep learning concepts, c
 
 # Dataset 
 MNIST dataset is hand crafted for this experiments, dataset is divided into 2 classes,
-* [class_0](https://drive.google.com/drive/folders/1qCDIBMvN-P9icQQM7huCt0_EOaLpZjsJ?usp=sharing) - Contains hand written 0's
-* [class_1](https://drive.google.com/drive/folders/1fj2G5SnfQsRyKyVQ8U5XLPrjzmZp-H82?usp=sharing) - Contains hand written 2's 3's 6's 9's 5's
+* [Test](https://drive.google.com/open?id=1fj2G5SnfQsRyKyVQ8U5XLPrjzmZp-H82) - Contains hand written 0's - 500 instances and Contains hand written 2's 3's 6's 9's 5's - 500 instances
+* [Train](https://drive.google.com/open?id=1qCDIBMvN-P9icQQM7huCt0_EOaLpZjsJ) - Contains hand written 0's - 500 instances and Contains hand written 2's 3's 6's 9's 5's - 500 instances
 * Download dataset and extract in parent folder where jupyter notebook is located. (put dataset in parent working directory).
 
 # Note
