@@ -19,7 +19,7 @@ MNIST dataset is hand crafted for this experiments, dataset is divided into 2 cl
 
 # Note
 Experiments above were implemented using python2 and python3 , implementaion of numpy exp function may result in cost as NaN, in such cases update your packages or try with other version of python.
-
+* Accuracy stated in the ipython Notebook at last cell are based on datasets which follows different distribution, so run the experiments on your own custom dataset and check accuray.
 
 
 
